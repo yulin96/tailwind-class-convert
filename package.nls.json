@@ -1,0 +1,14 @@
+{
+  "extension.displayName": "Tailwind Class Convert",
+  "extension.description": "Convert shorthand class names like w100 into Tailwind-compatible classes like w-100.",
+  "command.convert.title": "Tailwind Class Convert: Convert Current File or Selection",
+  "command.toggle.title": "Tailwind Class Convert: Toggle for Current Workspace",
+  "configuration.title": "Tailwind Class Convert",
+  "configuration.enableMode.description": "Controls whether conversion is enabled in the current workspace.",
+  "configuration.enableMode.auto": "Automatically enable when Tailwind CSS is detected.",
+  "configuration.enableMode.on": "Always enable.",
+  "configuration.enableMode.off": "Always disable.",
+  "configuration.convertOnSave.description": "Automatically convert supported classes when saving.",
+  "configuration.showStatusBar.description": "Show the Tailwind Class Convert switch in the status bar.",
+  "configuration.languages.description": "Language IDs that Tailwind Class Convert can process."
+}

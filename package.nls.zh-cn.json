@@ -1,0 +1,14 @@
+{
+  "extension.displayName": "Tailwind 类名转换",
+  "extension.description": "将 w100 等简写类名转换为 w-100 等 Tailwind 兼容写法。",
+  "command.convert.title": "Tailwind 类名转换：转换当前文件或选中内容",
+  "command.toggle.title": "Tailwind 类名转换：开启或关闭当前工作区转换",
+  "configuration.title": "Tailwind 类名转换",
+  "configuration.enableMode.description": "控制当前工作区是否启用转换。",
+  "configuration.enableMode.auto": "识别到 Tailwind CSS 时自动开启。",
+  "configuration.enableMode.on": "始终开启。",
+  "configuration.enableMode.off": "始终关闭。",
+  "configuration.convertOnSave.description": "保存文件时自动转换支持的类名。",
+  "configuration.showStatusBar.description": "在状态栏显示 Tailwind 类名转换开关。",
+  "configuration.languages.description": "允许 Tailwind 类名转换处理的文件类型标识。"
+}

@@ -1,0 +1,8 @@
+{
+  "Tailwind Class Convert is enabled. Click to disable.": "Tailwind 类名转换已开启，点击关闭。",
+  "Tailwind Class Convert is disabled. Click to enable.": "Tailwind 类名转换已关闭，点击开启。",
+  "Tailwind Class Convert is now enabled.": "Tailwind 类名转换已开启。",
+  "Tailwind Class Convert is now disabled.": "Tailwind 类名转换已关闭。",
+  "Enable Tailwind Class Convert from the status bar first.": "请先通过状态栏开启 Tailwind 类名转换。",
+  "This file type is not included in Tailwind Class Convert settings.": "当前文件类型未包含在 Tailwind 类名转换设置中。"
+}
