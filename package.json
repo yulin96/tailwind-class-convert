@@ -4,6 +4,7 @@
   "description": "%extension.description%",
   "version": "0.0.1",
   "publisher": "yulin96",
+  "icon": "icon.png",
   "author": "yulin96",
   "license": "MIT",
   "repository": {
