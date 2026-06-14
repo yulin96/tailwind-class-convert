@@ -4,6 +4,11 @@ A lightweight Visual Studio Code extension that converts shorthand class names f
 
 It automatically detects Tailwind CSS workspaces, supports conversion on save, and only converts complete class tokens inside `class` and `className` attributes.
 
+[![Marketplace Version](https://vsmarketplacebadges.dev/version/yulin96.tailwind-class-convert.svg?color=38BDF8)](https://marketplace.visualstudio.com/items?itemName=yulin96.tailwind-class-convert)
+[![Installs](https://vsmarketplacebadges.dev/installs/yulin96.tailwind-class-convert.svg?color=38BDF8)](https://marketplace.visualstudio.com/items?itemName=yulin96.tailwind-class-convert)
+[![Rating](https://vsmarketplacebadges.dev/rating/yulin96.tailwind-class-convert.svg?color=38BDF8)](https://marketplace.visualstudio.com/items?itemName=yulin96.tailwind-class-convert)
+[![License](https://img.shields.io/github/license/yulin96/tailwind-class-convert?color=38BDF8)](https://github.com/yulin96/tailwind-class-convert/blob/main/LICENSE)
+
 ---
 
 ## ✨ Features
@@ -105,3 +110,11 @@ Tailwind Class Convert considers a workspace to use Tailwind CSS when it finds o
 - Already converted classes such as `w-100` are left unchanged.
 - Variant classes such as `hover:w100` are left unchanged.
 - Similar text such as `hellow100` is never partially converted.
+
+---
+
+## 📄 License & Credits
+
+This project is licensed under the [MIT License](LICENSE).
+
+Developed by [yulin96](https://github.com/yulin96).
