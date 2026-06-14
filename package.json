@@ -3,11 +3,43 @@
   "displayName": "%extension.displayName%",
   "description": "%extension.description%",
   "version": "0.0.1",
+  "publisher": "yulin96",
+  "author": "yulin96",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yulin96/tailwind-class-convert.git"
+  },
+  "homepage": "https://github.com/yulin96/tailwind-class-convert#readme",
+  "bugs": {
+    "url": "https://github.com/yulin96/tailwind-class-convert/issues"
+  },
   "engines": {
     "vscode": "^1.120.0"
   },
   "categories": [
+    "Formatters",
     "Other"
+  ],
+  "keywords": [
+    "tailwind",
+    "tailwind css",
+    "tailwindcss",
+    "class",
+    "class name",
+    "class converter",
+    "class transform",
+    "shorthand class",
+    "utility class",
+    "css utility",
+    "legacy css",
+    "migration",
+    "convert on save",
+    "formatter",
+    "html",
+    "vue",
+    "react",
+    "svelte",
+    "astro"
   ],
   "activationEvents": [
     "onStartupFinished"
